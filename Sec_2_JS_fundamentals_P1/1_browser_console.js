@@ -21,3 +21,5 @@ if (j === "boring") alert("JS is FUN!"); //-> pop up will show
 // 5. browser and JS are two seperate things, JS can run outside the browser i.e on server/web-server using node.js and can interact with databases called backend applications. when JS in browser than that is called frontend applications.
 
 // 6. native mobile apps and native desktop apps can be made using JS
+
+// 7th lecture end
