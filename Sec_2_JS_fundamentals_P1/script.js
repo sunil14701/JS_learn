@@ -1,4 +1,5 @@
-// // l8: linking a JS file
+/*
+// //l8: linking a JS file 
 // let js = "amazing";
 // if (js == "amazing") alert("JS is FUN!");
 
@@ -8,8 +9,11 @@
 // console.log(ans);
 
 // inline script-> in html file
+*/
 
-// // l9 values and variables
+// ----------------------------------------------------------------------\
+/*
+// //l9 values and variables 
 // variable-> is a box that stores a value
 console.log("Jonas");
 console.log(23);
@@ -38,3 +42,39 @@ let myCurrentJob = "Teacher";
 // not like
 let job1 = "Programmer";
 let job2 = "Teacher";
+*/
+
+//------------------------------------------------------------------------------------
+
+/*
+// //l11: data types
+// values -> 1. object 2. primitve
+
+// JS is interpreted lang
+let javascriptIsFun = true;
+console.log(javascriptIsFun);
+console.log(typeof javascriptIsFun);
+console.log(typeof 1);
+console.log(typeof 1.2);
+console.log(typeof "Jonas");
+console.log(typeof undefined); // undefined is empty value
+console.log(typeof null);
+console.log(typeof Object);
+console.log(typeof Symbol);
+console.log(typeof BigInt);
+
+javascriptIsFun = "Yes!";
+console.log(typeof javascriptIsFun);
+
+let year;
+console.log(year);
+console.log(typeof year);
+
+year = 1991;
+console.log(year);
+console.log(typeof year);
+
+console.log(typeof null);// bug, null is not a object, it should return null like undefined's behaviour
+*/
+
+// ---------------------------------------------------------------------------------

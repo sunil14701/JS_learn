@@ -1,0 +1,2 @@
+codepen -> website to write html, css, JS and render it.
+Vscode -> code editor.
